@@ -1,0 +1,164 @@
+  h2 {
+ font-family: "ProximaNova", sans-serif;
+ font-size: 65px;
+ line-height: 64px;
+}
+
+.block-bottom {
+ position:absolute;
+
+ display: flex;
+ align-items: center;
+ align-self: center;  width: 1050px;  height: 450px;
+ margin-top: 1000px;
+
+ }
+
+.button { top: 7064.97px;  left: 205px;  display: flex;  width: 326px;  height: 63px;  margin-top: 80px;  border-radius: 13px;  background: #FFFFFF;
+
+ }
+.button:hover { transition: background 0.3s ease, color 0.2s linear;  background: #FFEF94;
+ }
+
+.button p {
+ align-self: center;  margin-top: 50px;  text-align: center;
+ }
+
+.O {
+ display: flex;  align-items: center;  align-self: center;  justify-content: center;
+ }
+
+.CTA {
+ align-items: flex-start;  width: 525;  margin-top: -250px;
+ }
+
+.back img {
+ position: absolute;
+ z-index: -100;
+ left: 0;
+
+ width: 100vw;
+ /* bottom: 0; */
+ margin-top: -150px;
+}
+
+.social-buttons {
+ position: absolute;  right: -70px;  margin-top: 880px;  transform: rotate(-90deg);
+ }
+
+.social-buttons a { margin-right: 14px;  text-decoration: none;  color: white;  font-family: "Circe-Regular";  /* font-weight: bold; */  font-size: 20px;  line-height: 40px;
+
+ }
+
+.link-to-social {
+ display: flex;
+
+ margin-top: 20px;
+}
+
+a.pink {
+display: block;
+
+margin-top: 15px;
+
+vertical-align: baseline;
+
+color: #D9A4FC;
+border-bottom: 2px #D9A4FC solid;
+
+font-size: 20px;
+line-height: .95;
+line-height: 25px;
+}
+
+.pink2 {
+  text-decoration: none;
+
+  border-bottom: 1px #ffffff solid;
+
+  line-height: .95;
+  line-height: 25px;
+}
+.link a {
+text-decoration-line: none;
+}
+
+.desk-bubbles {
+  margin-top: -20px;
+  padding: 0 63px;
+}
+
+
+
+
+.circle img {
+ z-index: 10;
+
+ overflow: hidden;
+ /* position: absolute; */
+
+ width: 452px;
+ height: 490px;
+ margin-top: -200px;
+}
+
+.fingers {
+ display: flex;    align-items: center;width: 1240px;  margin-top: 300px;
+ }
+
+
+.to_hover a:hover {
+ transform: scale(1.2);  duration: 1;
+ }
+
+.fingers .CTA img { margin-top: 20px;    margin-left: 10px;
+ }
+.fingers p {
+  margin-bottom: 0;
+}
+.fingers a {
+  margin-right: 0px;;
+}
+.img-one {
+     position: absolute;
+    right: 28vw;
+     /* width: 300px; */
+
+     height: 592px;
+     margin-top: -10px;
+     margin-right: -104px;
+ }
+
+.two {
+ position: absolute;  width: 1000px;  margin-top: 30px;     margin-left: 62vw;
+ }
+
+.CTA {
+ width: 1240px;
+ margin-right: auto;
+ margin-left: auto;
+}
+
+.triangle  {
+ width: 760px;
+ margin-top: 100px;
+ }
+
+img.triangle {
+  display: block;
+
+  margin-right: auto ;
+  margin-left: auto;
+}
+
+.hang1 {
+  margin-top: 150px;
+}
+.mainImg2 {
+  position: absolute;
+}
+.mainImg {
+      height: 1000px;
+      margin-top: -875px;
+      margin-left: 600px;
+}
